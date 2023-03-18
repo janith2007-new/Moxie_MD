@@ -1,12 +1,12 @@
 
 
-<h1 align="center">**MOXIE USER BOT**<br></h1>
+<h1 align="center">**THIWA OFC USER BOT**<br></h1>
 <p align="center">
-<img src="https://github.com/nipuna15/nipuna15/raw/main/Moxiepic.jpg" alt="animated" width="500" height="300" />
+<img src="https://i.ibb.co/vmX8H62/Snapchat-311401332.jpg" alt="animated" width="500" height="300" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/nipuna15" target="_blank"></a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/janith2007-new/janith2007-new" target="_blank"></a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
