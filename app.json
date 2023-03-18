@@ -1,8 +1,8 @@
 {
-  "name": "Moxie-MD-Bot",
+  "name": "THIWA OFC-MD-Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/nipuna15/Moxie-MD-Bot",
-  "logo": "https://github.com/nipuna15/nipuna15/raw/main/Moxiepic.jpg",
+  "logo": "https://i.ibb.co/vmX8H62/Snapchat-311401332.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
