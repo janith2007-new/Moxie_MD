@@ -16,19 +16,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['916909137213'] //ur owner number
-global.ownername = "NIPUNA RANGANA" //ur owner name
+global.ownername = "𝙲𝚈𝙱𝙴𝚁 𝚈𝙰𝙺𝚄𝚉𝙰" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: Nipuna15" //ur github or insta name
+global.socialm = "GitHub: 𝙲𝚈𝙱𝙴𝚁 𝚈𝙰𝙺𝚄𝚉𝙰" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.ownernomer = "916909137213" //ur number
 global.premium = ['916909137213'] //ur premium number
-global.botname = 'Moxie-MD_BOT' //ur bot name
+global.botname = '𝚃𝙷𝙸𝚆𝙰 𝙾𝙵𝙲_BOT' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/nipuna15/Moxie-MD-Bot' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "💓" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Moxie Bot" //ur sticker watermark author
 global.wm = "Moxie Bot Inc." //ur watermark
