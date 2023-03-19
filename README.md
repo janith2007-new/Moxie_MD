@@ -40,5 +40,18 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/nipuna15/Moxie-MD-Bot)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+##
+
+<p align="center">
+
+𝗠𝗼𝗴𝗲𝗻𝗶𝘂𝘀
+
+<p align="center">
+
+<a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img align="center" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" alt="Fork and deploy" /></a>
+
+</P>
+
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
